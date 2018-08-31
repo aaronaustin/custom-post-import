@@ -6,6 +6,7 @@ Description: Post Import with ACF Fields
 Version: 1.0
 Author: Aaron Austin - Modified from Roy Duineveld
 Author URI: http://royduineveld.nl
+GitHub Plugin URI: https://github.com/aaronaustin/custom-post-import
 */
 
 add_action('admin_menu', 'custom_import_plugin_setup_menu');
